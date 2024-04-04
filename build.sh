@@ -1,0 +1,1 @@
+docker build --no-cache -t my/php:7.0-fpm .
